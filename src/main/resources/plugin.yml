@@ -1,0 +1,4 @@
+name: AntiAutoFishing
+version: '${project.version}'
+main: org.silvius.antiautofishing.AntiAutoFishing
+api-version: 1.19
